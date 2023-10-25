@@ -1,0 +1,12 @@
+name: severe-weather-app
+title: severe-weather-app
+username: oyb6ek-nina-flores
+account: oyb6ek-nina-flores
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9958697
+bundleId: 7716983
+url: https://oyb6ek-nina-flores.shinyapps.io/severe-weather-app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
